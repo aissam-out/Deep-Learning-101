@@ -10,4 +10,6 @@ This repository contains the basic building blocks of Deep Learning:
 
 - Basics of Natural Language Processing:
 
-- 
+- Basics of Time Series:
+
+- How to start a Kaggle competition
