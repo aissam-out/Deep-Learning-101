@@ -6,4 +6,8 @@ This repository contains the basic building blocks of Deep Learning:
 
 - Exploratory Data Analysis:
 
-- Basics of Computer Vision
+- Basics of Computer Vision:
+
+- Basics of Natural Language Processing:
+
+- 
