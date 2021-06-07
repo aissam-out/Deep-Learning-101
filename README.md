@@ -23,4 +23,4 @@ This repository contains the basic building blocks of Deep Learning:
 
 - Basics of Time Series:
 
-- How to start a Kaggle competition
+- Get started with Kaggle competitions
