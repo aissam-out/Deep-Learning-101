@@ -11,6 +11,11 @@ This repository contains the basic building blocks of Deep Learning:
     - TF_board
 
 - Exploratory Data Analysis:
+    - Exploration
+    - Correlation matrix
+    - Scatter plots
+    - Missing data
+    - Outliers 
 
 - Basics of Computer Vision:
 
